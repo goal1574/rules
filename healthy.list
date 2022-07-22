@@ -1,4 +1,4 @@
-DOMAIN,medicalnewstoday.com,PROXY
-DOMAIN,healthline.com,PROXY
+DOMAIN-SUFFIX,medicalnewstoday.com,PROXY
+DOMAIN-SUFFIX,healthline.com,PROXY
 DOMAIN,cdn.jsdelivr.net,PROXY
 DOMAIN,www.taisounds.com,PROXY
