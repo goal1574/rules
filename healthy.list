@@ -1,3 +1,8 @@
+#Adguard
+DOMAIN-SUFFIX,adguard-dns.com
+DOMAIN-SUFFIX,adguard.com
+DOMAIN-SUFFIX,adguard-dns.io
+
 DOMAIN-SUFFIX,medicalnewstoday.com
 DOMAIN-SUFFIX,healthline.com
 DOMAIN,cdn.jsdelivr.net
